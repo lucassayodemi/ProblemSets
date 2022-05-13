@@ -33,6 +33,7 @@ Nmap -sV 192.168.43.28 to confirm the host up
 
 Directing the traffic to my network
 
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 
 
 
